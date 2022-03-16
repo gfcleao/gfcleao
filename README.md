@@ -1,4 +1,4 @@
 - 👋 Saudações, me chamo Gabriel Furtado!
-- 👀 Estou interessado em estudar no curso de engenharia de software.
-- 🌱 Estou tentando aprender mais e mais sobre o mundo da programação.
+- 👀 Almejo cursar engenharia de software ou ciências da computação.
+- 🌱 Estou aprendendo mais e mais sobre o mundo da programação.
 - 📫 Para entrar em contato comigo, manda DM no Twitter.
