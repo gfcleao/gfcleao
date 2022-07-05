@@ -1,4 +1,4 @@
 - 👋 Saudações, me chamo Gabriel Furtado!
 - 👀 Almejo cursar engenharia de software ou ciências da computação.
 - 🌱 Estou aprendendo mais e mais sobre o mundo da programação.
-- 📫 Para entrar em contato comigo, manda DM no Twitter.
+- 📫 Para entrar em contato comigo, mande uma DM no Twitter.
