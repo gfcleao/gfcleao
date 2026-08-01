@@ -19,8 +19,12 @@ Because of my current course load, I'm not active on email right now.
 </p>
 
 <p align="center">
-  <img height="150em" src="./profile/stats.svg" />
-  <img height="150em" src="./profile/top-langs.svg" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="150" src="https://github-stats-extended.vercel.app/api?username=realsnywy&show_icons=true&title_color=85FFC7&icon_color=297373&text_color=ffffff&bg_color=0d1117&hide_border=true&height=150" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=realsnywy&layout=compact&title_color=85FFC7&icon_color=297373&text_color=ffffff&bg_color=0d1117&hide_border=true&height=150" />
+  </a>
 </p>
 
 </div>
