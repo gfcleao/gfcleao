@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: stats
           options: username=realsnywy&show_icons=true&title_color=85FFC7&icon_color=297373&text_color=ffffff&bg_color=0d1117&hide_border=true
@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top langs card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=realsnywy&layout=compact&title_color=85FFC7&icon_color=297373&text_color=ffffff&bg_color=0d1117&hide_border=true
